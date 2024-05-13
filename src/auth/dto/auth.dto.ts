@@ -1,0 +1,1 @@
+//dto de autenticación (formato login)
